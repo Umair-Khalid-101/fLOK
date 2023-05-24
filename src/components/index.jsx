@@ -1,0 +1,11 @@
+export { default as Navbar } from "./Navbar/Navbar";
+export { default as SearchInput } from "./SearchInput/SearchInput";
+export { default as Categories } from "./Categories/Categories";
+export { default as Popular } from "./Popular/Popular";
+export { default as Card } from "./Card/Card";
+export { default as Outdoor } from "./Outdoor/Outdoor";
+export { default as Indoor } from "./Indoor/Indoor";
+export { default as Weekend } from "./Weekend/Weekend";
+export { default as Free } from "./Free/Free";
+export { default as Banner } from "./Banner/Banner";
+export { default as Footer } from "./Footer/Footer";
